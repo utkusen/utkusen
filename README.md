@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/utkusn/">
     <img src="https://img.shields.io/badge/-utku%20sen-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=282A36&color=282A36">
   </a>
- <a href="https://www.twitch.tv/utku1337">
-    <img src="https://img.shields.io/badge/-utku1337-blue?style=for-the-badge&logo=Twitch&logoColor=00AEFF&labelColor=282A36&color=282A36">
-  </a>
 </p>
 
 
